@@ -1,7 +1,5 @@
 # Discord Rich-Presence
 
-<div align="center">
-
   <br>
   <strong><i>Fully customizable discord RPC client</i></strong>
   <br>
