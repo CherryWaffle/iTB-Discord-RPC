@@ -14,7 +14,7 @@ require('dotenv').config();
             smallImageKey: "Icon Number 2 (Small Icon)",
             smallImageText: "This text is shown when hovering over the small Image in Discord.",
             
-
+//You can always add more to the above list, just refer the docs at https://discord.com/developers/docs/topics/rpc
         }).catch(err => console.log(err));
 
         console.log("Discord Rich Presence has been enabled.");
