@@ -17,7 +17,7 @@ require('dotenv').config();
 //You can always add more to the above list, just refer the docs at https://discord.com/developers/docs/topics/rpc
         }).catch(err => console.log(err));
 
-        console.log("Discord Rich Presence has been enabled.");
+        console.log("Discord Rich Presence has been enabled !!");
     });
 
     await client.login({ clientId: process.env.applicationID }).catch(console.error); 
